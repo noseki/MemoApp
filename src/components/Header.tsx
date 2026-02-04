@@ -14,7 +14,7 @@ const Header = (): ReactElement => {
 
 const styles = StyleSheet.create({
     header: {
-        backgroundColor: '#3172B8',
+        backgroundColor: '#467FD3',
         height: 104,
         justifyContent: 'flex-end',
     },
